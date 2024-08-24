@@ -1,2 +1,2 @@
 # HR Analytics Dashboard
-Utilized Power BI to create dynamic dashboards and interactive reports for HR analytics, enabling real-time data visualization and informed decision-making. A Power Bl dashboard to track employee data for the HR team, including working hours, attendance, performance, and leaves.
+• Developed an interactive HR Analytics Dashboard using Power BI to visualize key workforce metrics, including employee count, attrition rates, average age, and salary distribution.
